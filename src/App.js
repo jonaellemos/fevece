@@ -11,7 +11,7 @@ function App() {
           <text>Meu Site React</text>
         </p>
         <p>
-          <text>Capirotsmon</text>
+          <text>Teste FEVECE</text>
         </p>
         <a
           className="App-link"
